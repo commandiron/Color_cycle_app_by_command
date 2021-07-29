@@ -1,0 +1,2 @@
+rootProject.name='Color_cycle_app_by_command'
+include ':app'
